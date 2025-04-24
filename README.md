@@ -3,13 +3,13 @@ This Python-based Expense Tracker allows users to easily manage and keep track o
 
 # Features
 
-# Add new expense with item name and amount
-# View all saved expenses
-# Calculate total expenses
-# Edit any expense
-# Delete any expense
-# Simple and clean command-line interface
-# Files Included
+Add new expense with item name and amount
+View all saved expenses
+Calculate total expenses
+Edit any expense
+Delete any expense
+Simple and clean command-line interface
+Files Included
 
 expense_tracker.py - Main Python script
 
